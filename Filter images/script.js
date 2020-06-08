@@ -12,9 +12,7 @@ const filterImages = () => {
           } else {
             li[i].style.display = "none";
           }
-
     }
-
 }
 
 
